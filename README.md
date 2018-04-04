@@ -1,21 +1,25 @@
-# Apriori Algorithm
+# Decision Tree and Naive Bayesian Classifier
 
-An Apriori Algorithm for frequent pattern data mining.
+Decision Tree Implementation for any dataset
 
 ### Prerequisites
-
+This program is written in Python 3.6 and uses numpy. To install numpy copy and paste the following command in your terminal
 ```
-Python 3.6
+Pip3 install numpy
 ```
 
 ## Running the tests
 
-To run the algorithm on any dataset, please type the following command into your terminal window
+To run the Bayesian algorithm on any dataset, please type the following command into your terminal window
 ```
-Python3 Apriori.py (name of dataset to test) (minimum support count) (output file name)
+python3 bayes.py (name of training dataset to test) (name of testing dataset to test) (name of output file)
+```
+To run the Bayesian algorithm on any dataset, please type the following command into your terminal window
+```
+python3 c45.py (name of training  dataset to test) (name of testing dataset to test) (name of output file)
 ```
 
 ## Authors
 
-* **Patrick WAng** - *Initial work* - [Apriori Algorithm](https://github.com/patrickkingg/Apriori-Algorithm)
+* **Patrick Wang** - *Initial work* - [Decision Tree and Naive Bayesian Classifier](https://github.com/patrickkingg/Decision-Tree-and-Naive-Bayesian-Classifier)
 
