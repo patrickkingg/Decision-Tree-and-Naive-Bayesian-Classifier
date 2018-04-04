@@ -12,11 +12,11 @@ Pip3 install numpy
 
 To run the Bayesian algorithm on any dataset, please type the following command into your terminal window
 ```
-python3 bayes.py (name of training dataset to test) (name of testing dataset to test) (name of output file)
+python3 bayes.py <name of training dataset to test> <name of testing dataset to test> <name of output file>
 ```
 To run the Bayesian algorithm on any dataset, please type the following command into your terminal window
 ```
-python3 c45.py (name of training  dataset to test) (name of testing dataset to test) (name of output file)
+python3 c45.py <name of training  dataset to test> <name of testing dataset to test> <name of output file>
 ```
 
 ## Authors
